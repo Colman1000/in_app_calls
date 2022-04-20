@@ -2,11 +2,21 @@
 
 [![pub package](https://img.shields.io/pub/v/in_app_calls)](https://pub.dev/packages/in_app_calls) [![license](https://img.shields.io/github/license/colman1000/in_app_calls)](https://github.com/colman1000/in_app_calls)
 
-A flutter package based on the [WebRTC plugin](https://pub.dev/packages/flutter_webrtc) for easily integrating In-App Voice &
-Video Call experiences in your Mobile/Desktop/Web apps.
+A flutter package based on the [WebRTC plugin](https://pub.dev/packages/flutter_webrtc) for easily integrating In-App
+Voice & Video Call experiences in your Mobile/Desktop/Web apps.
 
 <p align="center">
 <strong>Made with 💖 from </strong> EaseCore 
+
+<hr/>
+
+## Functionality
+
+|      Feature       | Android | iOS | [Web](https://flutter.dev/web) | macOS | Windows | Linux | [Embedded](https://github.com/sony/flutter-elinux) | [Fuchsia](https://fuchsia.dev/) |
+|:------------------:|:-------:|:---:|:------------------------------:|:-----:|:-------:|:-----:|:--------------------------------------------------:|:-------------------------------:|
+|     Audio Call     |         |     |                                |       |         |       |                                                    |                                 |
+|     Video Call     |         |     |                                |       |         |       |                                                    |                                 |
+|   Screen Capture   |         |     |                                |       |         |       |                                                    |                                 |
 
 ## Usage
 
