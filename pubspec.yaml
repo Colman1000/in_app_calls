@@ -1,0 +1,16 @@
+name: in_app_calls
+description: A flutter package based on the WebRTC plugin for easily integrating In-App Voice & Video Call experiences in your Mobile/Desktop/Web apps.
+version: 0.0.1
+homepage: https://github.com/Colman1000/in_app_calls.git
+environment:
+  sdk: ">=2.16.1 <3.0.0"
+  flutter: ">=1.17.0"
+dependencies:
+  flutter:
+    sdk: flutter
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^1.0.0
+flutter:
+  uses-material-design: true
